@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|c:\\users\\compu tech\\source\\repos\\booklib\\booklib\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|solutionrelative:booklib\\repos\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|c:\\users\\compu tech\\source\\repos\\booklib\\booklib\\repos\\authorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|solutionrelative:booklib\\repos\\authorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|c:\\users\\compu tech\\source\\repos\\booklib\\booklib\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|solutionrelative:booklib\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|c:\\users\\compu tech\\source\\repos\\booklib\\booklib\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|solutionrelative:booklib\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|c:\\users\\compu tech\\source\\repos\\booklib\\booklib\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|solutionrelative:booklib\\dtos\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|c:\\users\\compu tech\\source\\repos\\booklib\\booklib\\repos\\genresrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|solutionrelative:booklib\\repos\\genresrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|c:\\users\\compu tech\\source\\repos\\booklib\\booklib\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|solutionrelative:booklib\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|c:\\users\\compu tech\\source\\repos\\booklib\\booklib\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|solutionrelative:booklib\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|c:\\users\\compu tech\\source\\repos\\booklib\\booklib\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D042AE6-EB6A-4E12-B1BD-510C859D9327}|BookLib\\BookLib.csproj|solutionrelative:booklib\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\DTOs\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "BookLib\\DTOs\\AuthorDto.cs",
+              "ToolTip": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\DTOs\\AuthorDto.cs",
+              "RelativeToolTip": "BookLib\\DTOs\\AuthorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:53:11.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenreDto.cs",
+              "DocumentMoniker": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\DTOs\\GenreDto.cs",
+              "RelativeDocumentMoniker": "BookLib\\DTOs\\GenreDto.cs",
+              "ToolTip": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\DTOs\\GenreDto.cs",
+              "RelativeToolTip": "BookLib\\DTOs\\GenreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:49:33.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BookLib\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BookLib\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:45:26.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "BookLib\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "BookLib\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAASwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:41:11.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookLib\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookLib\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:41:08.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenresRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\Repos\\GenresRepo.cs",
+              "RelativeDocumentMoniker": "BookLib\\Repos\\GenresRepo.cs",
+              "ToolTip": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\Repos\\GenresRepo.cs",
+              "RelativeToolTip": "BookLib\\Repos\\GenresRepo.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAABYPQ4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:40:59.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\Repos\\BookRepo.cs",
+              "RelativeDocumentMoniker": "BookLib\\Repos\\BookRepo.cs",
+              "ToolTip": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\Repos\\BookRepo.cs",
+              "RelativeToolTip": "BookLib\\Repos\\BookRepo.cs",
+              "ViewState": "AQIAAAkAAABANDMzMzMwwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:39:39.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\Repos\\AuthorRepo.cs",
+              "RelativeDocumentMoniker": "BookLib\\Repos\\AuthorRepo.cs",
+              "ToolTip": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\Repos\\AuthorRepo.cs",
+              "RelativeToolTip": "BookLib\\Repos\\AuthorRepo.cs",
+              "ViewState": "AQIAAAoAAAAA1szMzMwEwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:34:51.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "BookLib\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\Compu Tech\\source\\repos\\BookLib\\BookLib\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "BookLib\\Controllers\\GenresController.cs",
+              "ViewState": "AQIAACQAAAAQAAAAAIAwwC8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:31:59.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
